@@ -7,6 +7,19 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
+
+
+    <string name="Name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="email_ID">Email ID</string>
+    <string name="image">Image</string>
+    <string name="enter_email">Enter Email ID</string>
+    <string name="add_record">ADD RECORD</string>
+    <string name="all_inserted">All the inserted records.</string>
+    <string name="no_records">No records available!!!</string>
+    <string name="upload_image"> Upload Image</string>
+
+
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
